@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Napo-100/photo-port/static/css/main.04af071f.chunk.css",
+    "main.js": "/Napo-100/photo-port/static/js/main.71776fab.chunk.js",
+    "main.js.map": "/Napo-100/photo-port/static/js/main.71776fab.chunk.js.map",
+    "runtime-main.js": "/Napo-100/photo-port/static/js/runtime-main.611a2b1c.js",
+    "runtime-main.js.map": "/Napo-100/photo-port/static/js/runtime-main.611a2b1c.js.map",
+    "static/js/2.e39d5196.chunk.js": "/Napo-100/photo-port/static/js/2.e39d5196.chunk.js",
+    "static/js/2.e39d5196.chunk.js.map": "/Napo-100/photo-port/static/js/2.e39d5196.chunk.js.map",
+    "static/js/3.4c5e8a39.chunk.js": "/Napo-100/photo-port/static/js/3.4c5e8a39.chunk.js",
+    "static/js/3.4c5e8a39.chunk.js.map": "/Napo-100/photo-port/static/js/3.4c5e8a39.chunk.js.map",
+    "index.html": "/Napo-100/photo-port/index.html",
+    "static/css/main.04af071f.chunk.css.map": "/Napo-100/photo-port/static/css/main.04af071f.chunk.css.map",
+    "static/js/2.e39d5196.chunk.js.LICENSE.txt": "/Napo-100/photo-port/static/js/2.e39d5196.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/Napo-100/photo-port/static/media/0.b18c130d.jpg",
+    "static/media/1.jpg": "/Napo-100/photo-port/static/media/1.ffe481f4.jpg",
+    "static/media/2.jpg": "/Napo-100/photo-port/static/media/2.da4d6061.jpg",
+    "static/media/3.jpg": "/Napo-100/photo-port/static/media/3.dd376ef9.jpg",
+    "static/media/4.jpg": "/Napo-100/photo-port/static/media/4.ed3b1a69.jpg",
+    "static/media/cover-image.533ae8f6.jpg": "/Napo-100/photo-port/static/media/cover-image.533ae8f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.611a2b1c.js",
+    "static/js/2.e39d5196.chunk.js",
+    "static/css/main.04af071f.chunk.css",
+    "static/js/main.71776fab.chunk.js"
+  ]
+}
