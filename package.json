@@ -1,7 +1,7 @@
 {
   "name": "photo-port",
   "version": "0.1.0",
-  "homepage": "http://github.com/Napo-100/photo-port",
+  "homepage": "http://Napo-100.github.io/photo-port",
   "private": true,
   "dependencies": {
     "@testing-library/user-event": "^12.6.0",
